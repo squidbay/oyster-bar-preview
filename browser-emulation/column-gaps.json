@@ -1,0 +1,38 @@
+{
+ "d1440 /lunch": {
+  "worst": 180,
+  "where": "LunchThe lunch menuStartersOyster Bar Oy"
+ },
+ "d1440 /dinner": {
+  "worst": 161,
+  "where": "Dinner · Cocktails, wine & bottlesCockta"
+ },
+ "d1440 /oysters": {
+  "worst": 0,
+  "where": ""
+ },
+ "d1280 /lunch": {
+  "worst": 180,
+  "where": "LunchThe lunch menuStartersOyster Bar Oy"
+ },
+ "d1280 /dinner": {
+  "worst": 140,
+  "where": "Dinner · Cocktails, wine & bottlesCockta"
+ },
+ "d1280 /oysters": {
+  "worst": 0,
+  "where": ""
+ },
+ "l844 /lunch": {
+  "worst": 198,
+  "where": "LunchThe lunch menuStartersOyster Bar Oy"
+ },
+ "l844 /dinner": {
+  "worst": 177,
+  "where": "Dinner · Cocktails, wine & bottlesCockta"
+ },
+ "l844 /oysters": {
+  "worst": 0,
+  "where": ""
+ }
+}

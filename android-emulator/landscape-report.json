@@ -1,0 +1,215 @@
+[
+ {
+  "tag": "landscape",
+  "r": "/",
+  "iw": 915,
+  "ih": 308,
+  "sw": 915,
+  "sh": 2204,
+  "photos": 5,
+  "unloaded": [],
+  "broken": 0,
+  "headerH": 68,
+  "smallTaps": [
+   "Call (260) 744-9490",
+   "Dinner & Cocktails →",
+   "How it works →",
+   "Read the history →",
+   "Visit & Parking →"
+  ],
+  "err": "",
+  "leaks": [],
+  "newsreader": true,
+  "faces": [
+   "Newsreader 200 800",
+   "Libre Franklin 400",
+   "Libre Franklin 500",
+   "Libre Franklin 600"
+  ],
+  "bleed": 3,
+  "iframes": 0,
+  "exc": 0
+ },
+ {
+  "tag": "landscape",
+  "r": "/lunch",
+  "iw": 915,
+  "ih": 308,
+  "sw": 915,
+  "sh": 3407,
+  "photos": 2,
+  "unloaded": [],
+  "broken": 0,
+  "headerH": 68,
+  "smallTaps": [
+   "Visit & Parking →"
+  ],
+  "err": "",
+  "leaks": [],
+  "newsreader": true,
+  "faces": [
+   "Newsreader 200 800",
+   "Libre Franklin 400",
+   "Libre Franklin 500",
+   "Libre Franklin 600"
+  ],
+  "bleed": 3,
+  "iframes": 0,
+  "exc": 0
+ },
+ {
+  "tag": "landscape",
+  "r": "/dinner",
+  "iw": 915,
+  "ih": 308,
+  "sw": 915,
+  "sh": 5904,
+  "photos": 2,
+  "unloaded": [],
+  "broken": 0,
+  "headerH": 68,
+  "smallTaps": [],
+  "err": "",
+  "leaks": [],
+  "newsreader": true,
+  "faces": [
+   "Newsreader 200 800",
+   "Libre Franklin 400",
+   "Libre Franklin 500",
+   "Libre Franklin 600"
+  ],
+  "bleed": 3,
+  "iframes": 0,
+  "exc": 0
+ },
+ {
+  "tag": "landscape",
+  "r": "/oysters",
+  "iw": 915,
+  "ih": 308,
+  "sw": 915,
+  "sh": 2408,
+  "photos": 2,
+  "unloaded": [],
+  "broken": 0,
+  "headerH": 68,
+  "smallTaps": [
+   "Call (260) 744-9490"
+  ],
+  "err": "",
+  "leaks": [],
+  "newsreader": true,
+  "faces": [
+   "Newsreader 200 800",
+   "Libre Franklin 400",
+   "Libre Franklin 500",
+   "Libre Franklin 600"
+  ],
+  "bleed": 3,
+  "iframes": 0,
+  "exc": 0
+ },
+ {
+  "tag": "landscape",
+  "r": "/history",
+  "iw": 915,
+  "ih": 308,
+  "sw": 915,
+  "sh": 2001,
+  "photos": 2,
+  "unloaded": [],
+  "broken": 0,
+  "headerH": 68,
+  "smallTaps": [],
+  "err": "",
+  "leaks": [],
+  "newsreader": true,
+  "faces": [
+   "Newsreader 200 800",
+   "Libre Franklin 400",
+   "Libre Franklin 500",
+   "Libre Franklin 600"
+  ],
+  "bleed": 3,
+  "iframes": 0,
+  "exc": 0
+ },
+ {
+  "tag": "landscape",
+  "r": "/events",
+  "iw": 915,
+  "ih": 308,
+  "sw": 915,
+  "sh": 1418,
+  "photos": 2,
+  "unloaded": [],
+  "broken": 0,
+  "headerH": 68,
+  "smallTaps": [],
+  "err": "",
+  "leaks": [],
+  "newsreader": true,
+  "faces": [
+   "Newsreader 200 800",
+   "Libre Franklin 400",
+   "Libre Franklin 500",
+   "Libre Franklin 600"
+  ],
+  "bleed": 3,
+  "iframes": 0,
+  "exc": 0
+ },
+ {
+  "tag": "landscape",
+  "r": "/visit",
+  "iw": 915,
+  "ih": 308,
+  "sw": 915,
+  "sh": 1415,
+  "photos": 1,
+  "unloaded": [],
+  "broken": 0,
+  "headerH": 68,
+  "smallTaps": [],
+  "err": "",
+  "leaks": [],
+  "newsreader": true,
+  "faces": [
+   "Newsreader 200 800",
+   "Libre Franklin 400",
+   "Libre Franklin 500",
+   "Libre Franklin 600"
+  ],
+  "bleed": 4,
+  "iframes": 1,
+  "exc": 0
+ },
+ {
+  "tag": "landscape",
+  "r": "/request",
+  "iw": 915,
+  "ih": 308,
+  "sw": 915,
+  "sh": 1355,
+  "photos": 0,
+  "unloaded": [],
+  "broken": 0,
+  "headerH": 68,
+  "smallTaps": [
+   "Call instead",
+   "Visit & Parking →"
+  ],
+  "err": "",
+  "leaks": [],
+  "newsreader": true,
+  "faces": [
+   "Newsreader 200 800",
+   "Libre Franklin 400",
+   "Libre Franklin 500",
+   "Libre Franklin 600"
+  ],
+  "bleed": 2,
+  "iframes": 0,
+  "exc": 0
+ }
+]
