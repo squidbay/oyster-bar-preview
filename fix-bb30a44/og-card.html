@@ -1,0 +1,16 @@
+<!doctype html><html><head><meta charset="utf-8"><style>
+@font-face{font-family:'Newsreader';src:url(Newsreader-VF.woff2) format('woff2');font-weight:200 800}
+@font-face{font-family:'Libre Franklin';src:url(LibreFranklin-latin.woff2) format('woff2');font-weight:600}
+html,body{margin:0;width:1200px;height:630px;overflow:hidden;background:#221C19}
+.card{position:relative;width:1200px;height:630px;overflow:hidden;
+ background:radial-gradient(ellipse 70% 60% at 25% 15%,#2F2622 0%,rgba(47,38,34,0) 65%),radial-gradient(ellipse 60% 70% at 90% 100%,#15100D 0%,rgba(21,16,13,0) 60%),#1C1714}
+.etch{position:absolute;left:600px;top:-80px;width:760px;height:787px;background:#EEE3CE;opacity:0.22;
+ -webkit-mask:url(etch.png) center/contain no-repeat;mask:url(etch.png) center/contain no-repeat}
+.frame{position:absolute;inset:22px;border:1px solid rgba(180,139,63,.55)}
+.wm{position:absolute;left:58px;top:58px;width:400px}
+.eyebrow{position:absolute;left:84px;top:413px;font:600 17px/1 'Libre Franklin';letter-spacing:.16em;text-transform:uppercase;color:#B48B3F}
+.tag{position:absolute;left:84px;top:452px;font:600 33px/1.3 'Newsreader';color:#EEE3CE;letter-spacing:-.003em}
+</style></head><body><div class="card"><div class="etch"></div><div class="frame"></div>
+<img class="wm" src="wordmark.svg" alt="">
+<div class="eyebrow">Est. 1888 · 1830 S Calhoun St · Fort Wayne</div>
+<div class="tag">Lunch downtown. Oysters on the bar.<br>Dinner in the back room.</div></div></body></html>
